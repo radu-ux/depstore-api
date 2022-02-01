@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+nike_shoes:
+  id: 1
+  name: "Sneakers"
+  description: "Some description"
+  price: 123.22
+  quantity: 1
+  on_sale: true
